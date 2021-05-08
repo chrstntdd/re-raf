@@ -1,0 +1,20 @@
+{
+  "name": "re-raf",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "re:build": "rescript build -with-deps",
+    "re:start": "rescript build -w -with-deps"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gentype": "^3.48.0",
+    "prettier": "^2.2.1",
+    "rescript": "^9.1.2"
+  },
+  "prettier": {
+    "semi": false,
+    "useTabs": false,
+    "trailingComma": "none"
+  }
+}

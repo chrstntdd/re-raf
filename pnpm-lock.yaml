@@ -1,0 +1,31 @@
+lockfileVersion: 5.3
+
+specifiers:
+  gentype: ^3.48.0
+  prettier: ^2.2.1
+  rescript: ^9.1.2
+
+devDependencies:
+  gentype: 3.48.0
+  prettier: 2.2.1
+  rescript: 9.1.2
+
+packages:
+
+  /gentype/3.48.0:
+    resolution: {integrity: sha512-xeR1MLD8e5fCwqjSqvUfyc1HqwW0Ju8uU6lp33zefqZfKvR67nQWLW+p5KGTN79ArKbbd5Rp/y2citazFL2YSA==}
+    hasBin: true
+    requiresBuild: true
+    dev: true
+
+  /prettier/2.2.1:
+    resolution: {integrity: sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true
+
+  /rescript/9.1.2:
+    resolution: {integrity: sha512-4wHvTDv3nyYnAPJHcg1RGG8z7u3HDiBf6RN3P/dITDv859Qo35aKOzJWQtfBzbAs0EKNafLqei3TnUqiAv6BwQ==}
+    hasBin: true
+    requiresBuild: true
+    dev: true
